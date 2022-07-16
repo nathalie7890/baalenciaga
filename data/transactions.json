@@ -1,0 +1,40 @@
+[
+    {
+        "id": "6277fca06d48f",
+        "username": "janedoe",
+        "items": {
+            "6266d3fe3c2bf": 2,
+            "6266d4147f3c8": 2
+        },
+        "total": "7620",
+        "status": "completed",
+        "datePurchased": "2022\/05\/09 01:23:44am",
+        "payment": "\/public\/1652030648-receipt.jpg"
+    },
+    {
+        "id": "6277fd11dd1a1",
+        "username": "janedoe",
+        "items": {
+            "6266d3fe3c2bf": 2,
+            "6266d4147f3c8": 2
+        },
+        "total": "7620",
+        "status": "cancelled",
+        "datePurchased": "2022\/05\/09 01:25:37am",
+        "payment": ""
+    },
+    {
+        "id": "627809ec10fcb",
+        "username": "janedoe",
+        "items": {
+            "6266d3fe3c2bf": 2,
+            "6266d4147f3c8": 2,
+            "6266d46408f50": 2,
+            "6266d428ba4d5": "3"
+        },
+        "total": "13957",
+        "status": "pending",
+        "datePurchased": "2022\/05\/09 02:20:28am",
+        "payment": ""
+    }
+]

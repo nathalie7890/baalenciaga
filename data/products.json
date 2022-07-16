@@ -1,0 +1,74 @@
+[
+    {
+        "id": "6266a90ab16d8",
+        "name": "Speed Recycled Knit Trainers",
+        "price": "1090",
+        "quantity": 68,
+        "description": "PRODUCT DETAILS \u2022 Technical recycled knit \u2022 Ultra-articulated molded sole unit \u2022 \u201cNo Memory\u201d sole technology monocolor sole unit \u2022 Extra light: nearly barefoot feel \u2022 Contrasted logo printed on exterior \u2022 Embossed logo on the back of sole \u2022 Made in Italy \u2022 Do not machine wash and wipe with a soft cloth Material: 92% polyester 8% elastane Product ID: 587280W2DBQ1015",
+        "image": "\/public\/1650895114-speed_recycled_knit_trainers.jpg",
+        "isActive": true
+    },
+    {
+        "id": "6266d3e751b33",
+        "name": "Track.2 Sneaker in Beige",
+        "price": "2078",
+        "quantity": 60,
+        "description": "PRODUCT DETAILS \u2022 Technical recycled knit \u2022 Ultra-articulated molded sole unit \u2022 \u201cNo Memory\u201d sole technology monocolor sole unit \u2022 Extra light: nearly barefoot feel \u2022 Contrasted logo printed on exterior \u2022 Embossed logo on the back of sole \u2022 Made in Italy \u2022 Do not machine wash and wipe with a soft cloth Material: 92% polyester 8% elastane Product ID: 587280W2DBQ1015",
+        "image": "\/public\/1650906087-track2_sneaker_beige.jpg",
+        "isActive": true
+    },
+    {
+        "id": "6266d3fe3c2bf",
+        "name": "Track.3 Sneaker",
+        "price": "1890",
+        "quantity": 14,
+        "description": "PRODUCT DETAILS \u2022 Technical recycled knit \u2022 Ultra-articulated molded sole unit \u2022 \u201cNo Memory\u201d sole technology monocolor sole unit \u2022 Extra light: nearly barefoot feel \u2022 Contrasted logo printed on exterior \u2022 Embossed logo on the back of sole \u2022 Made in Italy \u2022 Do not machine wash and wipe with a soft cloth Material: 92% polyester 8% elastane Product ID: 587280W2DBQ1015",
+        "image": "\/public\/1651029446-track_sneaker_purple.jpg",
+        "isActive": true
+    },
+    {
+        "id": "6266d4147f3c8",
+        "name": "Triple Sneaker in Blue",
+        "price": "1920",
+        "quantity": 16,
+        "description": "PRODUCT DETAILS \u2022 Technical recycled knit \u2022 Ultra-articulated molded sole unit \u2022 \u201cNo Memory\u201d sole technology monocolor sole unit \u2022 Extra light: nearly barefoot feel \u2022 Contrasted logo printed on exterior \u2022 Embossed logo on the back of sole \u2022 Made in Italy \u2022 Do not machine wash and wipe with a soft cloth Material: 92% polyester 8% elastane Product ID: 587280W2DBQ1015",
+        "image": "\/public\/1650906132-triple_sneaker_blue.jpg",
+        "isActive": true
+    },
+    {
+        "id": "6266d428ba4d5",
+        "name": "Triple Sneaker in White",
+        "price": "899",
+        "quantity": 55,
+        "description": "PRODUCT DETAILS \u2022 Technical recycled knit \u2022 Ultra-articulated molded sole unit \u2022 \u201cNo Memory\u201d sole technology monocolor sole unit \u2022 Extra light: nearly barefoot feel \u2022 Contrasted logo printed on exterior \u2022 Embossed logo on the back of sole \u2022 Made in Italy \u2022 Do not machine wash and wipe with a soft cloth Material: 92% polyester 8% elastane Product ID: 587280W2DBQ1015",
+        "image": "\/public\/1650906152-triples_sneaker_white.jpg",
+        "isActive": true
+    },
+    {
+        "id": "6266d44a24c6d",
+        "name": "X-Pander Sneaker",
+        "price": "992",
+        "quantity": 87,
+        "description": "PRODUCT DETAILS \u2022 Technical recycled knit \u2022 Ultra-articulated molded sole unit \u2022 \u201cNo Memory\u201d sole technology monocolor sole unit \u2022 Extra light: nearly barefoot feel \u2022 Contrasted logo printed on exterior \u2022 Embossed logo on the back of sole \u2022 Made in Italy \u2022 Do not machine wash and wipe with a soft cloth Material: 92% polyester 8% elastane Product ID: 587280W2DBQ1015",
+        "image": "\/public\/1650906186-x_pander.jpg",
+        "isActive": true
+    },
+    {
+        "id": "6266d46408f50",
+        "name": "Clear Sole Recycled Knit Sneaker",
+        "price": "1820",
+        "quantity": 43,
+        "description": "PRODUCT DETAILS \u2022 Technical recycled knit \u2022 Ultra-articulated molded sole unit \u2022 \u201cNo Memory\u201d sole technology monocolor sole unit \u2022 Extra light: nearly barefoot feel \u2022 Contrasted logo printed on exterior \u2022 Embossed logo on the back of sole \u2022 Made in Italy \u2022 Do not machine wash and wipe with a soft cloth Material: 92% polyester 8% elastane Product ID: 587280W2DBQ1015",
+        "image": "\/public\/1650906212-clear_sole_recycled_knit.jpg",
+        "isActive": true
+    },
+    {
+        "id": "6266d482c3927",
+        "name": "Defender Sneaker in Beige",
+        "price": "998",
+        "quantity": "34",
+        "description": "PRODUCT DETAILS \u2022 Technical recycled knit \u2022 Ultra-articulated molded sole unit \u2022 \u201cNo Memory\u201d sole technology monocolor sole unit \u2022 Extra light: nearly barefoot feel \u2022 Contrasted logo printed on exterior \u2022 Embossed logo on the back of sole \u2022 Made in Italy \u2022 Do not machine wash and wipe with a soft cloth Material: 92% polyester 8% elastane Product ID: 587280W2DBQ1015",
+        "image": "\/public\/1650906242-defender_sneaker_beige.jpg",
+        "isActive": true
+    }
+]

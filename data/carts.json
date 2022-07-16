@@ -1,0 +1,17 @@
+[
+    {
+        "cart_id": "6277ea5f8b9cf",
+        "user_id": "6277ea5f736de",
+        "username": "janedoe",
+        "items": [
+            {
+                "product_id": "6266d3fe3c2bf",
+                "name": "Track.3 Sneaker",
+                "price": "1890",
+                "quantity": "1",
+                "subtotal": 1890
+            }
+        ],
+        "total": ""
+    }
+]

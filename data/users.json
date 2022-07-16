@@ -1,0 +1,15 @@
+[{
+        "id": "626610825d20b",
+        "fullname": "John Doe",
+        "username": "johndoe",
+        "password": "$2y$10$U8PASpA5SDzELis66c4iO.ghtGzGioAFxbXxwExtIRrAsjWn08TxG",
+        "isAdmin": true
+    },
+    {
+        "id": "6277ea5f736de",
+        "fullname": "Jane Doe",
+        "username": "janedoe",
+        "password": "$2y$10$l.k8Hk1yS6fUNB\/GdzYav.2VDxlb8mtNJzivqWvjcvoUUFNqZtw..",
+        "isAdmin": false
+    }
+]
